@@ -1,0 +1,30 @@
+C:\Users\cigah\source\repos\Database_Project\Database_Project\bin\Debug\Database_Project.exe.config
+C:\Users\cigah\source\repos\Database_Project\Database_Project\bin\Debug\Database_Project.exe
+C:\Users\cigah\source\repos\Database_Project\Database_Project\bin\Debug\Database_Project.pdb
+C:\Users\cigah\source\repos\Database_Project\Database_Project\obj\Debug\Database_Project.csprojAssemblyReference.cache
+C:\Users\cigah\source\repos\Database_Project\Database_Project\obj\Debug\Database_Project.Properties.Resources.resources
+C:\Users\cigah\source\repos\Database_Project\Database_Project\obj\Debug\Database_Project.csproj.GenerateResource.cache
+C:\Users\cigah\source\repos\Database_Project\Database_Project\obj\Debug\Database_Project.csproj.CoreCompileInputs.cache
+C:\Users\cigah\source\repos\Database_Project\Database_Project\obj\Debug\Database_Project.exe
+C:\Users\cigah\source\repos\Database_Project\Database_Project\obj\Debug\Database_Project.pdb
+C:\Users\cigah\source\repos\Database_Project\Database_Project\obj\Debug\Database_Project.FrmNewCustomer.resources
+C:\Users\cigah\source\repos\Database_Project\Database_Project\obj\Debug\Database_Project.FrmAdminPage.resources
+C:\Users\cigah\source\repos\Database_Project\Database_Project\obj\Debug\Database_Project.FrmMainForm.resources
+C:\Users\ARİF ALİ ÇIĞ\source\repos\Database_Project\Database_Project\bin\Debug\Database_Project.exe.config
+C:\Users\ARİF ALİ ÇIĞ\source\repos\Database_Project\Database_Project\bin\Debug\Database_Project.exe
+C:\Users\ARİF ALİ ÇIĞ\source\repos\Database_Project\Database_Project\bin\Debug\Database_Project.pdb
+C:\Users\ARİF ALİ ÇIĞ\source\repos\Database_Project\Database_Project\obj\Debug\Database_Project.csprojAssemblyReference.cache
+C:\Users\ARİF ALİ ÇIĞ\source\repos\Database_Project\Database_Project\obj\Debug\Database_Project.FrmAdminPage.resources
+C:\Users\ARİF ALİ ÇIĞ\source\repos\Database_Project\Database_Project\obj\Debug\Database_Project.FrmMainForm.resources
+C:\Users\ARİF ALİ ÇIĞ\source\repos\Database_Project\Database_Project\obj\Debug\Database_Project.FrmNewCustomer.resources
+C:\Users\ARİF ALİ ÇIĞ\source\repos\Database_Project\Database_Project\obj\Debug\Database_Project.Properties.Resources.resources
+C:\Users\ARİF ALİ ÇIĞ\source\repos\Database_Project\Database_Project\obj\Debug\Database_Project.csproj.GenerateResource.cache
+C:\Users\ARİF ALİ ÇIĞ\source\repos\Database_Project\Database_Project\obj\Debug\Database_Project.csproj.CoreCompileInputs.cache
+C:\Users\ARİF ALİ ÇIĞ\source\repos\Database_Project\Database_Project\obj\Debug\Database_Project.exe
+C:\Users\ARİF ALİ ÇIĞ\source\repos\Database_Project\Database_Project\obj\Debug\Database_Project.pdb
+C:\Users\ARİF ALİ ÇIĞ\source\repos\Database_Project\Database_Project\obj\Debug\Database_Project.FrmRooms.resources
+C:\Users\ARİF ALİ ÇIĞ\source\repos\Database_Project\Database_Project\bin\Debug\Database_Project.exe.manifest
+C:\Users\ARİF ALİ ÇIĞ\source\repos\Database_Project\Database_Project\bin\Debug\Database_Project.application
+C:\Users\ARİF ALİ ÇIĞ\source\repos\Database_Project\Database_Project\obj\Debug\Database_Project.exe.manifest
+C:\Users\ARİF ALİ ÇIĞ\source\repos\Database_Project\Database_Project\obj\Debug\Database_Project.application
+C:\Users\ARİF ALİ ÇIĞ\source\repos\Database_Project\Database_Project\obj\Debug\Database_Project.Reservations.resources

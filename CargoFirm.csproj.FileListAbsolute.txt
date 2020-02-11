@@ -1,0 +1,23 @@
+C:\Temp\CargoFirm\CargoFirm\bin\Debug\CargoFirm.exe.config
+C:\Temp\CargoFirm\CargoFirm\bin\Debug\CargoFirm.exe
+C:\Temp\CargoFirm\CargoFirm\bin\Debug\CargoFirm.pdb
+C:\Temp\CargoFirm\CargoFirm\obj\Debug\CargoFirm.csprojResolveAssemblyReference.cache
+C:\Temp\CargoFirm\CargoFirm\obj\Debug\CargoFirm.Properties.Resources.resources
+C:\Temp\CargoFirm\CargoFirm\obj\Debug\CargoFirm.csproj.GenerateResource.Cache
+C:\Temp\CargoFirm\CargoFirm\obj\Debug\CargoFirm.exe
+C:\Temp\CargoFirm\CargoFirm\obj\Debug\CargoFirm.pdb
+C:\Temp\CargoFirm\CargoFirm\obj\Debug\CargoFirm.CargoList.resources
+C:\Temp\CargoFirm\CargoFirm\obj\Debug\CargoFirm.Login.resources
+C:\Temp\CargoFirm\CargoFirm\obj\Debug\CargoFirm.CargoUpdate.resources
+C:\Users\ARİF ALİ ÇIĞ\source\repos\CargoFirm\CargoFirm\bin\Debug\CargoFirm.exe.config
+C:\Users\ARİF ALİ ÇIĞ\source\repos\CargoFirm\CargoFirm\bin\Debug\CargoFirm.exe
+C:\Users\ARİF ALİ ÇIĞ\source\repos\CargoFirm\CargoFirm\bin\Debug\CargoFirm.pdb
+C:\Users\ARİF ALİ ÇIĞ\source\repos\CargoFirm\CargoFirm\obj\Debug\CargoFirm.csprojAssemblyReference.cache
+C:\Users\ARİF ALİ ÇIĞ\source\repos\CargoFirm\CargoFirm\obj\Debug\CargoFirm.CargoList.resources
+C:\Users\ARİF ALİ ÇIĞ\source\repos\CargoFirm\CargoFirm\obj\Debug\CargoFirm.CargoUpdate.resources
+C:\Users\ARİF ALİ ÇIĞ\source\repos\CargoFirm\CargoFirm\obj\Debug\CargoFirm.Login.resources
+C:\Users\ARİF ALİ ÇIĞ\source\repos\CargoFirm\CargoFirm\obj\Debug\CargoFirm.Properties.Resources.resources
+C:\Users\ARİF ALİ ÇIĞ\source\repos\CargoFirm\CargoFirm\obj\Debug\CargoFirm.csproj.GenerateResource.cache
+C:\Users\ARİF ALİ ÇIĞ\source\repos\CargoFirm\CargoFirm\obj\Debug\CargoFirm.csproj.CoreCompileInputs.cache
+C:\Users\ARİF ALİ ÇIĞ\source\repos\CargoFirm\CargoFirm\obj\Debug\CargoFirm.exe
+C:\Users\ARİF ALİ ÇIĞ\source\repos\CargoFirm\CargoFirm\obj\Debug\CargoFirm.pdb
